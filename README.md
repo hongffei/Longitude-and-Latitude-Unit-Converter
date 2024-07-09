@@ -1,0 +1,1 @@
+Longitude and Latitude Unit Converter is used to create X-Plane navigation data. You can convert degrees, minutes, and seconds coordinates to decimal coordinates, and you can also convert decimal coordinates to degrees, minutes, and seconds coordinates.
